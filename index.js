@@ -17,8 +17,8 @@ document.addEventListener("keydown", function(e) {
     let right = parseInt(rightNumbers, 10);
 
     dodger.style.right= `${left + 1}px`;
-  }
-});
+    }
+  };
 }
 
 
