@@ -18,4 +18,3 @@ document.addEventListener("keydown", function(e) {
     dodger.style.right= `${left + 1}px`;
     }
   });
-}
