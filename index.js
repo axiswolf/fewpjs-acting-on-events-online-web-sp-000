@@ -14,7 +14,7 @@ function moveDodgerLeft() {
 //   if (e.key == "ArrowRight") {
 //     let rightNumbers = dodger.style.left.replace("", "px");
 //     let right = parseInt(rightNumbers, 10);
-// 
+//
 //     dodger.style.right= `${left + 1}px`;
 //     }
 //   });
